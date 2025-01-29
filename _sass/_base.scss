@@ -125,8 +125,9 @@ a {
 }
 
 span.link {
+  color: $brand-color;
   cursor: pointer;
-  color: variables.$color-brand;
+  // color: variables.$color-brand;
   text-decoration: none;
 
   &:hover {
@@ -219,5 +220,17 @@ pre {
     path {
       fill: variables.$color-grey;
     }
+  }
+}
+
+a#red-bg {
+  color: $brand-color;
+  font-weight: 500;
+  &:hover {
+    color: $brand-color;
+    //text-decoration: wavy underline $grey-color 2px;
+    //background-color: $grey-color-light;
+    font-weight: 500;
+    //text-decoration: none;
   }
 }

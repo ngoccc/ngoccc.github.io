@@ -176,6 +176,7 @@ td:first-child {
   font-weight: bold;
   min-width: 70px;
   vertical-align: top;
+  color: darken($brand-color, 5%)
 }
 td:last-child {
   padding: 0px;
