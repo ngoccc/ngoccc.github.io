@@ -13,8 +13,8 @@ slug: /publications
     </div>
     -->
     <div class="pub-contents" id="apolobot">
-        <a id="red-bg" class="pub-title" href="./assets/pdf/papers/apolobot.pdf" style="font-weight: bold">The Design Space for Online Restorative Justice Tools: A Case Study with ApoloBot</a> <br/>
-        <b class="pub-me">Bich Ngoc (Rubi) Doan</b>, <a id="red-bg" class="collaborator" href="https://joseph.seering.org/index.html" >Joseph Seering</a><br>
+        <a id="pub-title" href="./assets/pdf/papers/apolobot.pdf">The Design Space for Online Restorative Justice Tools: A Case Study with ApoloBot</a> <br/>
+        <b class="pub-me">Bich Ngoc (Rubi) Doan</b>, <a class="collaborator" href="https://joseph.seering.org/index.html" >Joseph Seering</a><br>
         <span class="pub-venue"> CHI 2025 (to appear) </span>
     </div>
 </div>

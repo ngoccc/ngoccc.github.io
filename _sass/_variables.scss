@@ -2,7 +2,7 @@
 
 $base-url: "" !default;
 
-$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
+$base-font-family: Avenir, Charter, Georgia, Helvetica, Arial, sans-serif;
 $base-font-size: 14px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
@@ -11,7 +11,8 @@ $spacing-unit: 30px;
 
 $color-text: #111;
 $color-background: #fdfdfd;
-$color-brand: #2a7ae2;
+$color-brand: #ff2e00;
+$color-brand-dark: color.adjust($color-brand, $lightness: -5%);
 
 $color-grey: #828282;
 $color-grey-light: color.adjust($color-grey, $lightness: 40%);

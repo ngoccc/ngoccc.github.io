@@ -176,15 +176,9 @@ td:first-child {
   font-weight: bold;
   min-width: 70px;
   vertical-align: top;
-  color: darken($brand-color, 5%)
+  color: variables.$color-brand-dark;
 }
 td:last-child {
   padding: 0px;
   vertical-align: top;
-}
-
-.highlights {
-  color: #2a7ae7;
-  font-weight: 600;
-  padding: 0 5px 0 0;
 }

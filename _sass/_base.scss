@@ -33,7 +33,7 @@ body {
   font-family: variables.$base-font-family;
   font-size: variables.$base-font-size;
   line-height: variables.$base-line-height;
-  font-weight: 300;
+  font-weight: 400;
   color: variables.$color-text;
   background-color: variables.$color-background;
   -webkit-text-size-adjust: 100%;
@@ -125,7 +125,7 @@ a {
 }
 
 span.link {
-  color: $brand-color;
+  color: variables.$color-brand;
   cursor: pointer;
   // color: variables.$color-brand;
   text-decoration: none;
@@ -223,14 +223,8 @@ pre {
   }
 }
 
-a#red-bg {
-  color: $brand-color;
-  font-weight: 500;
-  &:hover {
-    color: $brand-color;
-    //text-decoration: wavy underline $grey-color 2px;
-    //background-color: $grey-color-light;
-    font-weight: 500;
-    //text-decoration: none;
-  }
+a#pub-title {
+  color: variables.$color-brand-dark;
+  font-weight: bold;
+  font-size: medium;
 }
