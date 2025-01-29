@@ -6,7 +6,7 @@ description: Rubi's website.
 baseurl: ""
 url: "https://ngoccc.github.io"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "" # TODO: Fill this
+google_analytics: "G-2Y51DWRKJB"
 
 header:
   pages:
