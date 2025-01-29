@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hello! My name is <b>Bich Ngoc Doan</b>, but I usually go by <b>Rubi</b>. I'm a first-year Master's student in <a href="https://www.epfl.ch/education/master/programs/digital-humanities/">Digital Humanities @ EPFL</a>. Previously, I got my Bachelor's degree from the <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>. During my study, I was part of several research labs as a research assistant.
+Hello! My name is <b>Bich Ngoc Doan</b>, but I usually go by <b>Rubi</b>. I'm a first-year M.S. student in <a href="https://www.epfl.ch/education/master/programs/digital-humanities/">Digital Humanities @ EPFL</a>. Previously, I got my B.S. degree from the <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>. During my study, I was part of several research labs as a research assistant.
 My latest experience was at <a href="http://cstlab.org">CSTL</a>, where I was advised by <a href="https://joseph.seering.org/index.html">Professor Joseph Seering</a>. Currently I'm looking for a new research assistant position at EPFL!
 
 </p>
