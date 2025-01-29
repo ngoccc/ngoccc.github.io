@@ -119,8 +119,9 @@ a {
   text-decoration: none;
 
   &:hover {
-    color: variables.$color-text;
-    text-decoration: underline;
+    //color: variables.$color-text;
+    color: green;
+    text-decoration: green wavy underline;
   }
 }
 
@@ -223,7 +224,7 @@ pre {
   }
 }
 
-a#pub-title {
+.pub-title {
   color: variables.$color-brand-dark;
   font-weight: bold;
   font-size: medium;
