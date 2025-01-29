@@ -171,3 +171,19 @@
 .page-heading {
   font-size: 20px;
 }
+
+td:first-child {
+  font-weight: bold;
+  min-width: 70px;
+  vertical-align: top;
+}
+td:last-child {
+  padding: 0px;
+  vertical-align: top;
+}
+
+.highlights {
+  color: #2a7ae7;
+  font-weight: 600;
+  padding: 0 5px 0 0;
+}
