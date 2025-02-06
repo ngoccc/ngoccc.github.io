@@ -14,6 +14,8 @@ header:
       slug: /
     - name: Publications
     - name: Personal
+    - name: CV
+      slug: /assets/pdf/cv/resume-250206.pdf
 
 footer:
   show_powered_by: true
@@ -51,6 +53,7 @@ sass:
     style: :compressed
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Excluded items
 exclude:
