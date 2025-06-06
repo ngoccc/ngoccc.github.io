@@ -47,13 +47,13 @@ footer:
 #      name: RSS
 #      link: /feed.xml
 
+
 # Build settings
 markdown: kramdown
 sass:
     style: :compressed
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 # Excluded items
 exclude:
