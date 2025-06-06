@@ -15,7 +15,7 @@ header:
     - name: Publications
     - name: Personal
     - name: CV
-      slug: /assets/pdf/cv/resume-250206.pdf
+      slug: /assets/pdf/cv/resume-250606.pdf
 
 footer:
   show_powered_by: true
