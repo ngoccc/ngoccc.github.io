@@ -32,7 +32,7 @@ Shoot me an email if you want to chat about research, life, or anything 🌟 <br
     <div style="overflow-y: scroll; max-height: 220px;">
         <table style="padding-bottom:10px; ">
             <tr>
-                <td>March 2025</td>
+                <td>Mar 2025</td>
                 <td> Another paper, <em>"Mapping Community Appeals Systems: Lessons for Community-led Moderation in Multi-Level Governance"</em> got into <a href="https://cscw.acm.org/2025/">CSCW 2025</a>!</td>
             </tr>
             <tr>
