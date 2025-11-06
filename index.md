@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hello! My name is <b>Bich Ngoc Doan</b>, but I usually go by <b>Rubi</b>. I'm currently a visiting researcher in <a href="https://www.socialai.studio/">Social AI Studio @ SUTD</a>, and a M.S. student in <a href="https://www.epfl.ch/education/master/programs/digital-humanities/">Digital Humanities @ EPFL</a>. Previously, I got my B.S. degree from the <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I worked in several HCI and social computing labs, most recently with <a href="https://joseph.seering.org/index.html">Professor Joseph Seering</a> at <a href="http://cstlab.org">CSTL</a>.
+Hello! My name is <b>Bich Ngoc Doan</b>, but I usually go by <b>Rubi</b>. I'm currently a visiting researcher in <a href="https://www.socialai.studio/" target="_blank">Social AI Studio @ SUTD</a>, and a M.S. student in <a href="https://www.epfl.ch/education/master/programs/digital-humanities/" target="_blank">Digital Humanities @ EPFL</a>. Previously, I got my B.S. degree from the <a href="https://cs.kaist.ac.kr/" target="_blank">School of Computing @ KAIST</a>, where I worked in several HCI and social computing labs, most recently with <a href="https://joseph.seering.org/index.html" target="_blank">Professor Joseph Seering</a> at <a href="http://cstlab.org" target="_blank">CSTL</a>.
 </p>
 
 <p>
@@ -34,15 +34,15 @@ Shoot me an email if you want to chat about research, life, or anything 🌟 <br
             </tr>
             <tr>
                 <td>Sep 2025</td>
-                <td> Wrapped up my Semester Project at EPFL’s <a href="https://dlab.epfl.ch/">dlab</a>, where I studied radicalization pathways and their social impacts by utilizng LLM and NLP techniques to Reddit narrative data</td>
+                <td> Wrapped up my Semester Project at EPFL’s <a href="https://dlab.epfl.ch/" target="_blank">dlab</a>, where I studied radicalization pathways and their social impacts by utilizng LLM and NLP techniques to Reddit narrative data</td>
             </tr>
             <tr>
                 <td>Mar 2025</td>
-                <td> Another paper, <em>"Mapping Community Appeals Systems: Lessons for Community-led Moderation in Multi-Level Governance"</em> got into <a href="https://cscw.acm.org/2025/">CSCW 2025</a>!</td>
+                <td> Another paper, <em>"Mapping Community Appeals Systems: Lessons for Community-led Moderation in Multi-Level Governance"</em> got into <a href="https://cscw.acm.org/2025/" target="_blank">CSCW 2025</a>!</td>
             </tr>
             <tr>
                 <td>Feb 2025</td>
-                <td> My first(-author) paper <em>"The Design Space for Online Restorative Justice Tools: A Case Study with ApoloBot"</em> was accepted to <a href="https://chi2025.acm.org/">CHI 2025</a>! 📄🎉</td>
+                <td> My first(-author) paper <em>"The Design Space for Online Restorative Justice Tools: A Case Study with ApoloBot"</em> was accepted to <a href="https://chi2025.acm.org/" target="_blank">CHI 2025</a>! 📄🎉</td>
             </tr>
             <tr>
                 <td>Sep 2024</td>
