@@ -6,19 +6,16 @@ profile_picture:
 ---
 
 <p>
-Hello! My name is <b>Bich Ngoc Doan</b>, but I usually go by <b>Rubi</b>. I'm a first-year M.S. student in <a href="https://www.epfl.ch/education/master/programs/digital-humanities/">Digital Humanities @ EPFL</a>. Previously, I got my B.S. degree from the <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>. During my study, I was part of several research labs as a research assistant.
-My latest experience was at <a href="http://cstlab.org">CSTL</a>, where I was advised by <a href="https://joseph.seering.org/index.html">Professor Joseph Seering</a>. Next semester I'll be doing a Semester Project at <a href="https://dlab.epfl.ch/">dlab</a> (more information coming soon!)
-
+Hello! My name is <b>Bich Ngoc Doan</b>, but I usually go by <b>Rubi</b>. I'm currently a visiting researcher in <a href="https://www.socialai.studio/">Social AI Studio @ SUTD</a>, and a M.S. student in <a href="https://www.epfl.ch/education/master/programs/digital-humanities/">Digital Humanities @ EPFL</a>. Previously, I got my B.S. degree from the <a href="https://cs.kaist.ac.kr/">School of Computing @ KAIST</a>, where I worked in several HCI and social computing labs, most recently with <a href="https://joseph.seering.org/index.html">Professor Joseph Seering</a> at <a href="http://cstlab.org">CSTL</a>.
 </p>
 
 <p>
-My research interest lies in the field of Human-Computer Interaction (HCI) and Social Computing. In particular, I want to study and explore ways to build <b>inclusive online spaces that are safe, engaging, and supportive for diverse stakeholders</b>. Recently, I have also become interested in Computational Social Media, particularly in <b>managing online content at scale and extracting meaningful insights from user interactions</b>.
+My research lies at the intersection of <b>Human–Computer Interaction, Natural Language Processing, and Computational Social Science</b>. I’m broadly interested in understanding how people interact in online spaces and how computational methods—especially large language models—can help analyze, interpret, and support healthier digital communities. I enjoy exploring both <b>tool-building for user engagement and large-scale data analysis</b> to uncover social patterns and inform policy and design.
 </p>
 
 <p>
 Outside of research and study, I enjoy spending my free time pursuing creative hobbies such as drawing, cooking, and crocheting. I find immense joy in crafting things with my own hands, and I'm always eager to explore new creative outlets and ideas!
 </p>
-
 
 <p>
 Shoot me an email if you want to chat about research, life, or anything 🌟 <br/>
@@ -31,6 +28,14 @@ Shoot me an email if you want to chat about research, life, or anything 🌟 <br
 <p>
     <div style="overflow-y: scroll; max-height: 220px;">
         <table style="padding-bottom:10px; ">
+            <tr>
+                <td>Oct 2025</td>
+                <td> Moved to Singapore for a visiting research stay at SUTD! Currently exploring how large language models reflect and reproduce biases and cultural norms 🤖🤝🥸</td>
+            </tr>
+            <tr>
+                <td>Sep 2025</td>
+                <td> Wrapped up my Semester Project at EPFL’s <a href="https://dlab.epfl.ch/">dlab</a>, where I studied radicalization pathways and their social impacts by utilizng LLM and NLP techniques to Reddit narrative data</td>
+            </tr>
             <tr>
                 <td>Mar 2025</td>
                 <td> Another paper, <em>"Mapping Community Appeals Systems: Lessons for Community-led Moderation in Multi-Level Governance"</em> got into <a href="https://cscw.acm.org/2025/">CSCW 2025</a>!</td>
@@ -47,14 +52,6 @@ Shoot me an email if you want to chat about research, life, or anything 🌟 <br
                 <td>Aug 2024</td>
                 <td> Got my Bachelor's degree and officially graduated from KAIST! 🧑🏻‍🎓 </td>
                 </tr>
-            <tr>
-                <td>Sep 2023</td>
-                <td> Wrapping up my exchange with a testimonial <a href="https://www.youtube.com/watch?v=lEVyd91_UB0">video</a>, which won First Prize(!?) at KAIST 👀</td>
-            </tr>
-            <tr>
-                <td>Feb 2023</td>
-                <td> Started my exchange semester in Creative Technology at University of Twente, Netherlands. It's my first time in Europe! 🛩️ </td>
-            </tr>
         </table>
     </div>
 </p>
